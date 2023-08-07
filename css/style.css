@@ -241,6 +241,7 @@ label.pain-one-label-wrapper {
     display: table;
 }
 
+
 @media screen and (max-width:992px) {
     .bundle-and-save-wrapper {
         width: 70%;
